@@ -1,0 +1,300 @@
+Gene,Related Hormone Type,Function category
+AT1G16540,abscisic acid,Hormone biosynthesis
+AT1G52340,abscisic acid,Hormone biosynthesis
+AT1G67080,abscisic acid,Hormone biosynthesis
+AT2G27150,abscisic acid,Hormone biosynthesis
+AT3G14440,abscisic acid,Hormone biosynthesis
+AT3G26090,abscisic acid,Hormone biosynthesis
+AT4G15560,abscisic acid,Hormone biosynthesis
+AT5G03280,abscisic acid,Hormone biosynthesis
+AT5G67030,abscisic acid,Hormone biosynthesis
+AT2G29090,abscisic acid,Hormone metabolism
+AT5G45340,abscisic acid,Hormone metabolism
+AT1G06390,abscisic acid,Hormone signal transduction
+AT1G09700,abscisic acid,Hormone signal transduction
+AT1G21970,abscisic acid,Hormone signal transduction
+AT1G25490,abscisic acid,Hormone signal transduction
+AT1G28300,abscisic acid,Hormone signal transduction
+AT1G32640,abscisic acid,Hormone signal transduction
+AT1G34120,abscisic acid,Hormone signal transduction
+AT1G35515,abscisic acid,Hormone signal transduction
+AT1G35670,abscisic acid,Hormone signal transduction
+AT1G56070,abscisic acid,Hormone signal transduction
+AT1G69270,abscisic acid,Hormone signal transduction
+AT1G72770,abscisic acid,Hormone signal transduction
+AT1G78590,abscisic acid,Hormone signal transduction
+AT2G13540,abscisic acid,Hormone signal transduction
+AT2G17290,abscisic acid,Hormone signal transduction
+AT2G22090,abscisic acid,Hormone signal transduction
+AT2G26980,abscisic acid,Hormone signal transduction
+AT2G31660,abscisic acid,Hormone signal transduction
+AT2G33790,abscisic acid,Hormone signal transduction
+AT2G34900,abscisic acid,Hormone signal transduction
+AT2G36270,abscisic acid,Hormone signal transduction
+AT2G38050,abscisic acid,Hormone signal transduction
+AT2G39550,abscisic acid,Hormone signal transduction
+AT2G39940,abscisic acid,Hormone signal transduction
+AT2G40220,abscisic acid,Hormone signal transduction
+AT2G46370,abscisic acid,Hormone signal transduction
+AT3G08550,abscisic acid,Hormone signal transduction
+AT3G11410,abscisic acid,Hormone signal transduction
+AT3G15730,abscisic acid,Hormone signal transduction
+AT3G20770,abscisic acid,Hormone signal transduction
+AT3G23050,abscisic acid,Hormone signal transduction
+AT3G24650,abscisic acid,Hormone signal transduction
+AT3G26790,abscisic acid,Hormone signal transduction
+AT3G48040,abscisic acid,Hormone signal transduction
+AT3G54320,abscisic acid,Hormone signal transduction
+AT3G55530,abscisic acid,Hormone signal transduction
+AT3G63210,abscisic acid,Hormone signal transduction
+AT4G09570,abscisic acid,Hormone signal transduction
+AT4G15900,abscisic acid,Hormone signal transduction
+AT4G18010,abscisic acid,Hormone signal transduction
+AT4G21670,abscisic acid,Hormone signal transduction
+AT4G23650,abscisic acid,Hormone signal transduction
+AT4G26080,abscisic acid,Hormone signal transduction
+AT4G33950,abscisic acid,Hormone signal transduction
+AT4G38630,abscisic acid,Hormone signal transduction
+AT5G03730,abscisic acid,Hormone signal transduction
+AT5G13530,abscisic acid,Hormone signal transduction
+AT5G13680,abscisic acid,Hormone signal transduction
+AT5G15970,abscisic acid,Hormone signal transduction
+AT5G19330,abscisic acid,Hormone signal transduction
+AT5G20910,abscisic acid,Hormone signal transduction
+AT5G23720,abscisic acid,Hormone signal transduction
+AT5G40280,abscisic acid,Hormone signal transduction
+AT5G47100,abscisic acid,Hormone signal transduction
+AT5G48870,abscisic acid,Hormone signal transduction
+AT5G57050,abscisic acid,Hormone signal transduction
+AT5G63980,abscisic acid,Hormone signal transduction
+AT1G52920,abscisic acid,Hormone receptor
+AT4G16280,abscisic acid,Hormone receptor
+AT5G13630,abscisic acid,Hormone receptor
+AT1G25220,auxin,Hormone biosynthesis
+AT1G70560,auxin,Hormone biosynthesis
+AT2G20610,auxin,Hormone biosynthesis
+AT4G13260,auxin,Hormone biosynthesis
+AT4G31500,auxin,Hormone biosynthesis
+AT4G32540,auxin,Hormone biosynthesis
+AT5G05730,auxin,Hormone biosynthesis
+AT5G11320,auxin,Hormone biosynthesis
+AT5G25620,auxin,Hormone biosynthesis
+AT4G37390,auxin,Hormone metabolism
+AT5G54510,auxin,Hormone metabolism
+AT5G55250,auxin,Hormone metabolism
+AT1G12820,auxin,Hormone receptor
+AT3G26810,auxin,Hormone receptor
+AT3G62980,auxin,Hormone receptor
+AT4G03190,auxin,Hormone receptor
+AT1G04240,auxin,Hormone signal transduction
+AT1G04250,auxin,Hormone signal transduction
+AT1G04550,auxin,Hormone signal transduction
+AT1G05180,auxin,Hormone signal transduction
+AT1G10940,auxin,Hormone signal transduction
+AT1G19220,auxin,Hormone signal transduction
+AT1G19850,auxin,Hormone signal transduction
+AT1G30330,auxin,Hormone signal transduction
+AT1G31340,auxin,Hormone signal transduction
+AT1G59750,auxin,Hormone signal transduction
+AT1G77850,auxin,Hormone signal transduction
+AT2G02560,auxin,Hormone signal transduction
+AT2G28350,auxin,Hormone signal transduction
+AT2G32410,auxin,Hormone signal transduction
+AT2G33860,auxin,Hormone signal transduction
+AT2G35635,auxin,Hormone signal transduction
+AT3G15540,auxin,Hormone signal transduction
+AT3G23050,auxin,Hormone signal transduction
+AT3G50060,auxin,Hormone signal transduction
+AT4G02570,auxin,Hormone signal transduction
+AT4G11260,auxin,Hormone signal transduction
+AT4G14550,auxin,Hormone signal transduction
+AT4G14560,auxin,Hormone signal transduction
+AT4G30080,auxin,Hormone signal transduction
+AT5G18560,auxin,Hormone signal transduction
+AT5G19180,auxin,Hormone signal transduction
+AT5G20570,auxin,Hormone signal transduction
+AT5G20730,auxin,Hormone signal transduction
+AT5G25890,auxin,Hormone signal transduction
+AT5G37020,auxin,Hormone signal transduction
+AT5G49980,auxin,Hormone signal transduction
+AT5G60450,auxin,Hormone signal transduction
+AT5G62000,auxin,Hormone signal transduction
+AT1G23080,auxin,Hormone transportion
+AT1G54990,auxin,Hormone transportion
+AT1G70940,auxin,Hormone transportion
+AT1G73590,auxin,Hormone transportion
+AT1G77110,auxin,Hormone transportion
+AT2G01420,auxin,Hormone transportion
+AT2G34650,auxin,Hormone transportion
+AT2G38120,auxin,Hormone transportion
+AT2G47000,auxin,Hormone transportion
+AT3G28860,auxin,Hormone transportion
+AT5G13930,auxin,Hormone transportion
+AT5G57090,auxin,Hormone transportion
+AT1G11680,brassinosteroid,Hormone biosynthesis
+AT1G17060,brassinosteroid,Hormone biosynthesis
+AT1G20330,brassinosteroid,Hormone biosynthesis
+AT2G38050,brassinosteroid,Hormone biosynthesis
+AT3G13730,brassinosteroid,Hormone biosynthesis
+AT3G19820,brassinosteroid,Hormone biosynthesis
+AT3G30180,brassinosteroid,Hormone biosynthesis
+AT3G50660,brassinosteroid,Hormone biosynthesis
+AT4G36380,brassinosteroid,Hormone biosynthesis
+AT5G05690,brassinosteroid,Hormone biosynthesis
+AT5G13170,brassinosteroid,Hormone biosynthesis
+SAX1,brassinosteroid,Hormone biosynthesis
+AT2G26710,brassinosteroid,Hormone metabolism
+AT2G36800,brassinosteroid,Hormone metabolism
+AT1G55610,brassinosteroid,Hormone receptor
+AT3G13380,brassinosteroid,Hormone receptor
+AT4G39400,brassinosteroid,Hormone receptor
+AT1G03445,brassinosteroid,Hormone signal transduction
+AT1G16390,brassinosteroid,Hormone signal transduction
+AT1G18400,brassinosteroid,Hormone signal transduction
+AT1G19350,brassinosteroid,Hormone signal transduction
+AT1G69010,brassinosteroid,Hormone signal transduction
+AT1G71830,brassinosteroid,Hormone signal transduction
+AT1G73830,brassinosteroid,Hormone signal transduction
+AT1G75080,brassinosteroid,Hormone signal transduction
+AT2G30980,brassinosteroid,Hormone signal transduction
+AT4G18710,brassinosteroid,Hormone signal transduction
+AT4G30610,brassinosteroid,Hormone signal transduction
+AT4G33430,brassinosteroid,Hormone signal transduction
+AT4G36540,brassinosteroid,Hormone signal transduction
+AT5G08130,brassinosteroid,Hormone signal transduction
+AT5G38860,brassinosteroid,Hormone signal transduction
+AT5G42750,brassinosteroid,Hormone signal transduction
+AT5G58220,brassinosteroid,Hormone signal transduction
+AT5G62000,brassinosteroid,Hormone signal transduction
+AT3G19160,cytokinin,Hormone biosynthesis
+AT2G19500,cytokinin,Hormone metabolism
+AT2G41510,cytokinin,Hormone metabolism
+AT4G29740,cytokinin,Hormone metabolism
+AT5G56970,cytokinin,Hormone metabolism
+AT1G27320,cytokinin,Hormone receptor
+AT2G01830,cytokinin,Hormone receptor
+AT5G35750,cytokinin,Hormone receptor
+AT1G10470,cytokinin,Hormone signal transduction
+AT1G12980,cytokinin,Hormone signal transduction
+AT1G59940,cytokinin,Hormone signal transduction
+AT1G74890,cytokinin,Hormone signal transduction
+AT2G25180,cytokinin,Hormone signal transduction
+AT2G41310,cytokinin,Hormone signal transduction
+AT2G47430,cytokinin,Hormone signal transduction
+AT3G11540,cytokinin,Hormone signal transduction
+AT3G16857,cytokinin,Hormone signal transduction
+AT3G29350,cytokinin,Hormone signal transduction
+AT3G48100,cytokinin,Hormone signal transduction
+AT3G50070,cytokinin,Hormone signal transduction
+AT3G57040,cytokinin,Hormone signal transduction
+AT4G31920,cytokinin,Hormone signal transduction
+AT5G62920,cytokinin,Hormone signal transduction
+AT1G02630,cytokinin,Hormone transportion
+AT4G05120,cytokinin,Hormone transportion
+AT5G49160,DNA methyltransferase,DNA demethylation
+AT1g69770,DNA methyltransferase,DNA demethylation
+AT5G15380,DNA methyltransferase,DNA demethylation
+AT5G14620,DNA methyltransferase,DNA demethylation
+AT4g13940,DNA methyltransferase,DNA demethylation
+AT5G66750,DNA methyltransferase,DNA demethylation
+AT2g16390,DNA methyltransferase,DNA demethylation
+AT1g57820,DNA methyltransferase,DNA demethylation
+AT1g66050,DNA methyltransferase,DNA demethylation
+AT5G39550,DNA methyltransferase,DNA demethylation
+At5g04560,DNA demethylase,DNA demethylation
+At3g10010,DNA demethylase,DNA demethylation
+At4g34060,DNA demethylase,DNA demethylation
+At2g36490,DNA demethylase,DNA demethylation
+At5g59130,,DNA demethylation
+At5g13960,,DNA demethylation
+At3g07610,,DNA demethylation
+At4G38130,Histone deacetalyase,Histone modification
+At5G63110,Histone deacetalyase,Histone modification
+At5G35600,Histone deacetalyase,Histone modification
+At3G44680,Histone deacetalyase,Histone modification
+At5G61060,Histone deacetalyase,Histone modification
+At3G18520,Histone deacetalyase,Histone modification
+At5G61070,Histone deacetalyase,Histone modification
+At5G26040,Histone deacetalyase,Histone modification
+At1G08460,Histone deacetalyase,Histone modification
+At4G33470,Histone deacetalyase,Histone modification
+At3G44660,Histone deacetalyase,Histone modification
+At3G44490,Histone deacetalyase,Histone modification
+At3G44750,Histone deacetalyase,Histone modification
+At5G22650,Histone deacetalyase,Histone modification
+At5G03740,Histone deacetalyase,Histone modification
+At2G27840,Histone deacetalyase,Histone modification
+At5G55760,Histone deacetalyase,Histone modification
+At5G09230,Histone deacetalyase,Histone modification
+At3g54610,Histone acetyltransferase,Histone modification
+At5g56740,Histone acetyltransferase,Histone modification
+At5g50320,Histone acetyltransferase,Histone modification
+At5g64610,Histone acetyltransferase,Histone modification
+At5g09740,Histone acetyltransferase,Histone modification
+At1g79000,Histone acetyltransferase,Histone modification
+At1g67220,Histone acetyltransferase,Histone modification
+At1g55970,Histone acetyltransferase,Histone modification
+At3g12980,Histone acetyltransferase,Histone modification
+At1g16710,Histone acetyltransferase,Histone modification
+At1g32750,Histone acetyltransferase,Histone modification
+At3g19040,Histone acetyltransferase,Histone modification
+AT1G17440,ethylene,Hormone biosynthesis
+AT3G49700,ethylene,Hormone biosynthesis
+AT3G51770,ethylene,Hormone biosynthesis
+AT4G01370,ethylene,Hormone biosynthesis
+AT5G65800,ethylene,Hormone biosynthesis
+AT2G43790,ethylene,Hormone biosynthesis and signal transduction
+AT1G04310,ethylene,Hormone receptor
+AT1G66340,ethylene,Hormone receptor
+AT2G40940,ethylene,Hormone receptor
+AT3G04580,ethylene,Hormone receptor
+AT3G23150,ethylene,Hormone receptor
+AT4G37580,ethylene,Hormone response
+SAX1,ethylene,Hormone response
+AT1G02120,ethylene,Hormone signal transduction
+AT1G25490,ethylene,Hormone signal transduction
+AT1G54490,ethylene,Hormone signal transduction
+AT1G56160,ethylene,Hormone signal transduction
+AT1G73500,ethylene,Hormone signal transduction
+AT2G25490,ethylene,Hormone signal transduction
+AT2G26070,ethylene,Hormone signal transduction
+AT2G27050,ethylene,Hormone signal transduction
+AT3G20770,ethylene,Hormone signal transduction
+AT3G23240,ethylene,Hormone signal transduction
+AT3G54720,ethylene,Hormone signal transduction
+AT5G03280,ethylene,Hormone signal transduction
+AT5G03730,ethylene,Hormone signal transduction
+AT5G05170,ethylene,Hormone signal transduction
+AT5G20010,ethylene,Hormone signal transduction
+AT5G25350,ethylene,Hormone signal transduction
+EER2,ethylene,Hormone signal transduction
+EIN6,ethylene,Hormone signal transduction
+AT1G02400,gibberellin,Hormone biosynthesis
+AT1G15550,gibberellin,Hormone biosynthesis
+AT1G44090,gibberellin,Hormone biosynthesis
+AT1G50960,gibberellin,Hormone biosynthesis
+AT1G60980,gibberellin,Hormone biosynthesis
+AT1G78440,gibberellin,Hormone biosynthesis
+AT1G79460,gibberellin,Hormone biosynthesis
+AT1G80330,gibberellin,Hormone biosynthesis
+AT1G80340,gibberellin,Hormone biosynthesis
+AT4G02780,gibberellin,Hormone biosynthesis
+AT4G21200,gibberellin,Hormone biosynthesis
+AT4G21690,gibberellin,Hormone biosynthesis
+AT4G25420,gibberellin,Hormone biosynthesis
+AT5G25900,gibberellin,Hormone biosynthesis
+AT5G51810,gibberellin,Hormone biosynthesis
+AT4G26420,gibberellin,Hormone metabolism
+AT5G56300,gibberellin,Hormone metabolism
+AT3G05120,gibberellin,Hormone receptor
+AT3G63010,gibberellin,Hormone receptor
+AT5G27320,gibberellin,Hormone receptor
+AT1G14920,gibberellin,Hormone signal transduction
+AT1G66350,gibberellin,Hormone signal transduction
+AT2G01570,gibberellin,Hormone signal transduction
+AT2G04240,gibberellin,Hormone signal transduction
+AT3G03450,gibberellin,Hormone signal transduction
+AT3G11540,gibberellin,Hormone signal transduction
+AT4G24210,gibberellin,Hormone signal transduction
+AT5G17490,gibberellin,Hormone signal transduction
+AT5G48170,gibberellin,Hormone signal transduction
